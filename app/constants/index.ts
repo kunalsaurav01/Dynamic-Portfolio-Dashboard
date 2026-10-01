@@ -1,0 +1,4 @@
+export const MARKET_REFRESH_INTERVAL_MS = 15_000;
+export const DEFAULT_CACHE_TTL_SECONDS = 15;
+export const MARKET_REQUEST_TIMEOUT_MS = 7_000;
+export const MAX_MARKET_RETRIES = 2;
